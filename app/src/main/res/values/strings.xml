@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpellCheckerApp</string>
+    <string name="no_suggestion_available">No suggestion available</string>
+</resources>
